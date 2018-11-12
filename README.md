@@ -4,6 +4,8 @@ Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incid
 
 Dieser Fliesstext stammt von [Wikipedia](https://de.wikipedia.org/wiki/Lorem_ipsum).
 
+Und hier ein Bild: ![Bild](icons8-ambulance-24.png)
+
 Bekannte Autohersteller:
 
 * VW
